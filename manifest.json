@@ -2,7 +2,8 @@
   "manifest_version": 3,
   "name": "Exit Button",
   "description": "Exit Chrome when you clicked toolbar icon",
-  "version": "0.1_alpha",
+  "version": "0.0.0.1",
+  "version_name": "0.0.0.1_alpha",
   "background": {
     "service_worker": "service_worker.js"
   },
