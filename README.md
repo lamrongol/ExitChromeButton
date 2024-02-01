@@ -1,0 +1,1 @@
+Exit Chrome when you clicked toolbar icon.
